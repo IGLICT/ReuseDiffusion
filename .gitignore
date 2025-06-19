@@ -1,0 +1,4 @@
+models/*
+results/*
+*.jpg
+*.pyc
